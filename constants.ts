@@ -14,7 +14,7 @@ export const NAV_LINKS = [
 
 // Ideally replace this URL with the local path to your uploaded image "2025" if hosted, 
 // or keep a placeholder that you can swap in the code later.
-export const PROFILE_IMAGE_URL = "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=687&q=80"; 
+export const PROFILE_IMAGE_URL = "/IMG-20250915-WA0071.jpg"; 
 export const RESUME_URL = "/resume.pdf"; 
 
 export const EXPERIENCES: Experience[] = [
